@@ -8,6 +8,9 @@ echo ""
 echo " --- Craeting directorys ---"
 mkdir curl dig httprobe nmap nocf subs virtualh wayback whois
 echo ""
+echo " --- Installing Owasp Amass ---"
+apt install amass
+echo ""
 echo " --- Installing nmap ---"
 apt install nmap
 echo ""
