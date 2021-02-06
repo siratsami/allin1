@@ -1,7 +1,7 @@
 # allin1
 ALLIN1 simple automated basic recon
 # Features
-#### Subdomain enum with crt.sh,assetfinder,subfinder
+#### Subdomain enum with Owasp Amass,crt.sh,assetfinder,subfinder
 #### Using dig to collect subdomains ip addresses
 #### Whois for subdomain ip addresses
 #### Using regex to remove waf's ip address
