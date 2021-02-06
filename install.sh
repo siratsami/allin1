@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 echo " ----------------------------------------"
 echo " | Installing required tools for allin1 |"
